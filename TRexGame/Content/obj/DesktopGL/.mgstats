@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/SGDan/source/repos/TRexGame/TRexGame/Content/button-press.mp3","C:/Users/SGDan/source/repos/TRexGame/TRexGame/Content/bin/DesktopGL/button-press.xnb","SoundEffectProcessor","SoundEffectContent",5178,25449,0.3261518
+"C:/Users/SGDan/source/repos/TRexGame/TRexGame/Content/hit.mp3","C:/Users/SGDan/source/repos/TRexGame/TRexGame/Content/bin/DesktopGL/hit.xnb","SoundEffectProcessor","SoundEffectContent",7212,52073,0.1620218
+"C:/Users/SGDan/source/repos/TRexGame/TRexGame/Content/score-reached.mp3","C:/Users/SGDan/source/repos/TRexGame/TRexGame/Content/bin/DesktopGL/score-reached.xnb","SoundEffectProcessor","SoundEffectContent",9250,101737,0.1754706
+"C:/Users/SGDan/source/repos/TRexGame/TRexGame/Content/spritesheet.png","C:/Users/SGDan/source/repos/TRexGame/TRexGame/Content/bin/DesktopGL/spritesheet.xnb","TextureProcessor","Texture2DContent",3002,493285,0.046302
